@@ -4,10 +4,10 @@ A proof of concept Music application compatible for both IOS and Android. Fetche
 
 App front page
 
-![This is the registration page](https://github.com/rickysychan/gift-giver/blob/master/imgs/app.png)
+![This is the registration page](https://github.com/rickysychan/albums/blob/master/imgs/Screen%20Shot%202018-08-14%20at%2010.48.42%20AM.png)
 
 
 ## How to Use
 
 1) npm install
-2) npm start
+2) react-native run-ios/ react-native run-android
